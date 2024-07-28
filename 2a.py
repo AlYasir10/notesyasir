@@ -5,7 +5,6 @@ def vowels(ch):
         print(ch, "is vowel..!!!")
     else:
         print(ch, "is not a vowel..!!!")
-    vowels(ch)
     
 
 ch = input("Enter a character: ")
